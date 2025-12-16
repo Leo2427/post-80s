@@ -10,6 +10,9 @@
 - [80后的童年](#80后的童年)
 - [80后的工作](#80后的工作)
 - [80后的下半场](#80后的下半场)
+- [仓库主要负责人](#仓库主要负责人)
+- [参与贡献](#参与贡献)
+    - [贡献人员](#贡献人员)
 
 ## 80后人口数量
 
@@ -52,3 +55,19 @@
 ## 80后的下半场
   - 80后失业群：待补充
   - 80后事业部：待补充
+
+## 仓库主要负责人
+[@Leo Ho](https://github.com/Leo2427)
+
+
+## 参与贡献
+
+[![](https://img.shields.io/badge/申请-Pull%20Request-red?style=flat-square)](https://github.com/Leo2427/post-80s/pulls)
+
+提交 [PR](https://github.com/Leo2427/post-80s/pulls) 申请。
+
+### 贡献人员
+
+感谢所有贡献的人。
+
+[@Leo Ho](https://github.com/Leo2427)
